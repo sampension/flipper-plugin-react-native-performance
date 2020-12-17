@@ -6019,6 +6019,11 @@ flipper-plugin-lib@0.66.0:
     semver "^7.3.2"
     tmp "^0.2.1"
 
+flipper-plugin-react-native-performance@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/flipper-plugin-react-native-performance/-/flipper-plugin-react-native-performance-0.5.0.tgz#7f33ca9d1d8f4cbccdb82633ed4f9bfd807859a3"
+  integrity sha512-QsxoyE4m1MrJeprOk6j3rFS8I9BVuI3Y+TnhvOiCpCMf46MukJKFRVtveR0rgdXe/o3tuSdquyToYE8IuvWY6A==
+
 flipper-plugin@0.66.0:
   version "0.66.0"
   resolved "https://registry.yarnpkg.com/flipper-plugin/-/flipper-plugin-0.66.0.tgz#ea9fc42cdbf1077a68fdaf5ed7b9cedb2a23cbcf"
