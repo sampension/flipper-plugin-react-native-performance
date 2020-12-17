@@ -3,8 +3,8 @@ require 'json'
 package = JSON.parse(File.read(File.join(__dir__, '../package.json')))
 
 Pod::Spec.new do |s|
-  s.name         = package['name']
-  s.version      = package['version']
+  s.name         = "flipper-plugin-react-native-performance"
+  s.version      = "0.5.0"
   s.summary      = package['description']
   s.author       = package['author']
   s.homepage     = package['homepage']
