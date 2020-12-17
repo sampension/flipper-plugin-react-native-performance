@@ -13,6 +13,9 @@
     "type": "git",
     "url": "https://github.com/sampension/flipper-plugin-react-native-performance.git"
   },
+  "publishConfig": {
+		"registry":"https://npm.pkg.github.com/"
+	},
   "files": [
     "index.js",
     "src",
